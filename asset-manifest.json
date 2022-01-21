@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/nwitter/static/js/main.6a841ace.chunk.js",
-    "main.js.map": "/nwitter/static/js/main.6a841ace.chunk.js.map",
-    "runtime-main.js": "/nwitter/static/js/runtime-main.0ebd0060.js",
-    "runtime-main.js.map": "/nwitter/static/js/runtime-main.0ebd0060.js.map",
-    "static/js/2.072448f9.chunk.js": "/nwitter/static/js/2.072448f9.chunk.js",
-    "static/js/2.072448f9.chunk.js.map": "/nwitter/static/js/2.072448f9.chunk.js.map",
-    "index.html": "/nwitter/index.html",
-    "static/js/2.072448f9.chunk.js.LICENSE.txt": "/nwitter/static/js/2.072448f9.chunk.js.LICENSE.txt"
+    "main.js": "/clonetwitter/static/js/main.6a841ace.chunk.js",
+    "main.js.map": "/clonetwitter/static/js/main.6a841ace.chunk.js.map",
+    "runtime-main.js": "/clonetwitter/static/js/runtime-main.cd5f7d09.js",
+    "runtime-main.js.map": "/clonetwitter/static/js/runtime-main.cd5f7d09.js.map",
+    "static/js/2.562e59ed.chunk.js": "/clonetwitter/static/js/2.562e59ed.chunk.js",
+    "static/js/2.562e59ed.chunk.js.map": "/clonetwitter/static/js/2.562e59ed.chunk.js.map",
+    "index.html": "/clonetwitter/index.html",
+    "static/js/2.562e59ed.chunk.js.LICENSE.txt": "/clonetwitter/static/js/2.562e59ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ebd0060.js",
-    "static/js/2.072448f9.chunk.js",
+    "static/js/runtime-main.cd5f7d09.js",
+    "static/js/2.562e59ed.chunk.js",
     "static/js/main.6a841ace.chunk.js"
   ]
 }
